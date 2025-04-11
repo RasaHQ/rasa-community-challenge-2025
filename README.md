@@ -7,7 +7,7 @@ More than 450 participants from around the world applied to join the challenge, 
 
 We are thrilled by the number of ideas and use cases participants came up with. They built AI agents across a wide range of domains, including dating, cryptocurrency, farming, elder care, women and young parents support, navigation, rentals and housing search, and home renovation.
 
-📹 You can watch the replay of the livestream announcement and live demos on Rasa’s [YouTube Channel](https://youtube.com/live/_i4ZAoCSS7E)
+📹 You can watch the replay of the livestream announcement and live demos on Rasa’s [YouTube Channel](https://www.youtube.com/watch?v=aaHs39ph6Ng)
 
 | **Prize**       | **Name**      | **Link to Project on GibHub** |
 |-----------------|---------------|-------------------------------|
