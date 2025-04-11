@@ -3,7 +3,7 @@
 
 We are excited to share the results of our nearly six-week-long Agent Building Challenge! 
 
-More than 450 participants from around the world applied to join the challenge, representing countries such as India, the USA, Nigeria, Saudi Arabia, the Philippines, Thailand, the UK, Germany, Brazil, Slovakia, Turkey, Denmark, and many more.
+More than 450 participants from around the world applied to join the challenge, from countries such as India, the USA, Nigeria, Saudi Arabia, the Philippines, Thailand, the UK, Germany, Brazil, Slovakia, Turkey, Denmark, and many more.
 
 We are thrilled by the number of ideas and use cases participants came up with. They built AI agents across a wide range of domains, including dating, cryptocurrency, farming, elder care, women and young parents support, navigation, rentals and housing search, and home renovation.
 
