@@ -3,18 +3,20 @@
 
 We are excited to share the results of our nearly six-week-long Agent Building Challenge! 
 
-More than 450 participants from around the world applied to join the challenge, from countries such as India, the USA, Nigeria, Saudi Arabia, the Philippines, Thailand, the UK, Germany, Brazil, Slovakia, Turkey, Denmark, and many more.
+More than 450 participants applied to join the challenge from around the world: India, the USA, Nigeria, Saudi Arabia, the Philippines, Thailand, the UK, Germany, Brazil, Slovakia, Turkey, Denmark, and many more.
 
 We are thrilled by the number of ideas and use cases participants came up with. They built AI agents across a wide range of domains, including dating, cryptocurrency, farming, elder care, women and young parents support, navigation, rentals and housing search, and home renovation.
 
-📹 You can watch the replay of the livestream announcement and live demos on Rasa’s [YouTube Channel](https://www.youtube.com/watch?v=aaHs39ph6Ng)
+📹 You can watch the replay of the livestream and live demos on Rasa’s [YouTube Channel](https://www.youtube.com/watch?v=aaHs39ph6Ng)
 
-| **Prize**       | **Name**      | **Link to Project on GibHub** |
+## The Winners
+
+| **Prize**       | **Name**      | **GibHub 🔗** |
 |-----------------|---------------|-------------------------------|
 |🥇1st Prize - $10,000| Vladimir Preobrazhenskiy| [link](https://github.com/vvpreo/rasa-rag-challange-2025)|
 |🥈2nd Prize - $3,000|Martin Lukáň| [link](https://github.com/mlukan/Eryc)|
 |🥉3rd Prize - $1,000 |Muhammed Emin Tetik|[link](https://github.com/metetik/rasa-agent)|
-|💡Best Rasa feature request - $1,000|Kennedy Yinusa|[link](https://github.com/iyinusa/mailobot) |
+|💡Best Feature Request - $1,000|Kennedy Yinusa|[link](https://github.com/iyinusa/mailobot) |
 |✨Notable Project|Eddyraj Rajiah|[link](https://github.com/eddyrsw/codespaces-quickstart)|
 |✨Notable Project|KisanTeam|[link](https://github.com/xettrisomeman/Kisan)|
 |✨Notable Project|Kryptos Team|[link](https://github.com/N-45div/Kryptos-rasa-agent)|
